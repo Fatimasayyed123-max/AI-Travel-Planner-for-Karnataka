@@ -1,0 +1,28 @@
+# Environment & Secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE & Editor caches
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
